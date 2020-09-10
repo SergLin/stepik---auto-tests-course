@@ -1,1 +1,4 @@
-.vscode/settings.json
+venv/
+.idea/
+__pycache__/
+geckodriver.log
